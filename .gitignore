@@ -1,0 +1,4 @@
+preprocessed_data/training
+maskcyclegan_result/
+vocoder/exp/checkpoint-2500000steps.pkl
+venv/
